@@ -1,4 +1,4 @@
-{
+[
     {
       "id": 0,
       "title": "Первый",
@@ -54,4 +54,4 @@
       "title": "Десятый",
       "description": "Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
     },
-}
+]
