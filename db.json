@@ -40,20 +40,5 @@
       "title": "Седьмой",
       "description": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem."
     },
-    {
-      "id": 8,
-      "title": "Восьмой",
-      "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequaturllamco laboris nisi ut aliquip ex ea commodo consequat."
-    },
-    {
-      "id": 9,
-      "title": "Девятый,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-    },
-    {
-      "id": 10,
-      "title": "Десятый",
-      "description": "Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-    }
   ]
 }
